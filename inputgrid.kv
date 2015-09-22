@@ -1,0 +1,15 @@
+<InputGrid>:
+    id: grid_root
+    GridLayout:
+        cols: 2
+    BoxLayout:
+        orientation: 'vertical'
+
+        Button:
+            text: "Reset"
+            on_press: grid_root._handle_btn_press(self)
+        Widget:
+
+        Button:
+            text: "Submit"
+            on_press: grid_root._handle_btn_press(self)

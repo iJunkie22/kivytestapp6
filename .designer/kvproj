@@ -1,0 +1,42 @@
+<time>
+    1435941061.77
+</time>
+<files>
+    <file>
+        /Users/ethan/Developer/PycharmProjects/kivytestapp6/runner.py
+    </file>
+    <file>
+        /Users/ethan/Developer/PycharmProjects/kivytestapp6/migrate.py
+    </file>
+    <file>
+        /Users/ethan/Developer/PycharmProjects/kivytestapp6/main.py
+    </file>
+</files>
+<classes>
+    <class>
+         <name>
+             RootWidget
+         </name>
+         <file>
+             /Users/ethan/Developer/PycharmProjects/kivytestapp6/main.py
+         </file>
+
+    </class>
+    <class>
+         <name>
+             Label
+         </name>
+         <file>
+             /Users/ethan/Developer/PycharmProjects/kivytestapp6/main.py
+         </file>
+
+    </class>
+</classes>
+<app>
+    <class>
+         MainApp
+    </class>
+    <file>
+         /Users/ethan/Developer/PycharmProjects/kivytestapp6/main.py
+    </file>
+</app>
